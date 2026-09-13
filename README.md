@@ -1,1 +1,1 @@
-# -system-config
+# system-config
